@@ -1,10 +1,10 @@
 ---
 layout: default
-img: dog.png
+img: movie-viewer.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Movie-Viewer
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  A movie app developed with two of my colleagues at NSS using OMDb's API.  We built this app to allow for a user to search movies, add movies they plan to watch, and rate movies that they have on their watched list.
+
+  For this project we used HTML, Javascript, CSS, Require.JS, Q, Bootstrap, and LoDash.
