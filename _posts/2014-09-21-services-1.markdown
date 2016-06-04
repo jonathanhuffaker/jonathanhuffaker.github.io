@@ -5,6 +5,6 @@ category: Services
 title: My TN Trail<br>
 description: |
 ---
- A social hiking app built for my front-end capstone project at Nashville Software School.  MyTN Trail allows you to share and rate your favorite hikes, connect with friends to discover new hikes, and share photos of you myHike Gallery. 
+ A social hiking app built for my front-end capstone project at Nashville Software School.  MyTN Trail allows you to share and rate your favorite hikes, connect with friends to discover new hikes, and share photos in your myHike Gallery. 
 
 For this project I used Javascript, HTML, CSS, Firebase, Bootstrap, and Angular.
