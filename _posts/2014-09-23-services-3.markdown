@@ -1,9 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: bikeRacks.png
 category: Services
-title: C# - Simple Calculator
+title: Nash Bike Trip
 description: |
 ---
-Simple back-end calculator built in Visual Studio using unit tests.
+Nash Bike Tirp is my back-end capstone project for Evening Cohort 2 at NSS.  I developed this project to be used as a trip preparation tool for cyclists to be able to plan/view their route prior to their departure, and give them the location of the closest bike racks in location to their arriving destination.  For this project I used Google maps bicycling layer API and data.nashville.gov ’s bike rack data for visibility into metro owned, some privately owned, and art installation bike racks in Davidson County.  This project was built using ASP.NET MVC, jQuery, Bootstrap, and Javascript.
 
